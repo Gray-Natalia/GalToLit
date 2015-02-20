@@ -5,17 +5,22 @@
  */
 package mypractice;
 
+import java.util.Scanner;
+
 /**
  *
  * @author kalav_000
  */
 public class MyPractice {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        ArrayFun arrayFun = new ArrayFun();
+        arrayFun.getInput();
+        
+        ArrayFun2 arrayFun2 = new ArrayFun2();
+        arrayFun2.getInput2();
+        
     }
     
 }

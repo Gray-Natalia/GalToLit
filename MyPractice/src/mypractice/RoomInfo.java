@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author kalav_000
- */
+
 public class RoomInfo {
     
     public static void main(String args[]){
@@ -78,3 +78,4 @@ public class RoomInfo {
     }
 }
     
+ */
