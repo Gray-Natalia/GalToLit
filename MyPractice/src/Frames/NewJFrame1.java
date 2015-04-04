@@ -276,7 +276,7 @@ public class NewJFrame1 extends javax.swing.JFrame {
         Breed1 b1;
         b1 = new Breed1("Chelsey", "girl", 1, 3, "Puddle");
         
-        jTextField1. setText(b1.showInfo()+ b1.showWalks()+ b1.showBreed());
+        jTextField1. setText(b1.showInfo()+ "\n" + b1.showWalks()+ b1.showBreed());
         
         
     }//GEN-LAST:event_jBDogActionPerformed

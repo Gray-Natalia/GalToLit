@@ -45,7 +45,7 @@ public class FamilyMember {
         String showText;
         showText = "Family member's name is " + name +
                 ". The age is " + age +
-                " and " + name + " is a " + gender + ".\n";
+                " and " + name + " is a " + gender + ".";
         return showText;
     }
  }
